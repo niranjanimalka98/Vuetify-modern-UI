@@ -1,4 +1,4 @@
-# sales
+# Modern Vuetify UI
 
 ## Project setup
 ```
