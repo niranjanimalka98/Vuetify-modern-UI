@@ -1,5 +1,6 @@
 # Modern Vuetify UI
 
+![](public/snapshot.png)
 ## Project setup
 ```
 npm install
